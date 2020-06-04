@@ -1,2 +1,2 @@
-# ML-DL
+# Machine Learning
 It's just a sample what I have done. That's it....
